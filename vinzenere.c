@@ -31,6 +31,7 @@ if(text == NULL)
  return 1;
 }
 
+
 for (int i = 0, n = 0; i < strlen(text); i++)
 {
  if (isalpha(text[i]))
